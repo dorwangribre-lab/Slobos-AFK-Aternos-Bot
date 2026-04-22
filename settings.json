@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Abysx_.aternos.me:63484",
+    "ip": "Abysx_.aternos.me",
     "port": 63484,
     "version": "",
     "try-creative": false
